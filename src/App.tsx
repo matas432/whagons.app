@@ -2,7 +2,7 @@ function App() {
   return ( 
 
     <div>
-      <h1> Hello from Whagons.app</h1>
+      <h1> Hello from Tokyo</h1>
     </div>
 
 
